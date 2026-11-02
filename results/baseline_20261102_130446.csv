@@ -1,0 +1,15 @@
+mode,query_id,run,time_ms,status,node,utc_time
+exact,1,1,134.336,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:51Z
+exact,1,2,137.316,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:51Z
+exact,2,1,210.118,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:51Z
+exact,2,2,209.160,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:51Z
+exact,3,1,220.855,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:51Z
+exact,3,2,219.964,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:52Z
+exact,4,1,154.627,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:52Z
+exact,4,2,152.257,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:52Z
+exact,8,1,233.078,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:52Z
+exact,8,2,208.749,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:53Z
+exact,21,1,267.328,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:53Z
+exact,21,2,214.724,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:53Z
+exact,30,1,608.531,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:54Z
+exact,30,2,607.139,ok,atl1-1-01-005-1-1.pace.gatech.edu,2026-11-02T18:04:54Z

@@ -1,0 +1,16 @@
+start_utc: 2026-11-02T18:04:46Z
+node: atl1-1-01-005-1-1.pace.gatech.edu   slurm_job: 6786170   cpus_allocated: 8   nproc: 8
+               total        used        free      shared  buff/cache   available
+Mem:             187          15          96           0          77         171
+RUNS=2 QUERIES=1 2 3 4 8 21 30 RESTART_BETWEEN=0 STATEMENT_TIMEOUT=0 MODE=exact
+query_file: /home/hice1/yfan409/scratch/ClickBench/postgresql/queries.sql
+PostgreSQL 16.15 on x86_64-conda-linux-gnu, compiled by x86_64-conda-linux-gnu-cc (conda-forge gcc 15.3.0-1) 15.3.0, 64-bit
+hits rows: 1000000
+effective_cache_size = 5242888kB
+jit = on
+maintenance_work_mem = 1048576kB
+max_parallel_workers = 8
+max_parallel_workers_per_gather = 2
+max_wal_size = 16384MB
+shared_buffers = 2621448kB
+work_mem = 4096kB
