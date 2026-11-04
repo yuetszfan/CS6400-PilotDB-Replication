@@ -1,7 +1,7 @@
 select
     products.product_id,
     product_name,
-    count(*) as count_orders,
+    count(*) as count_orders
 from
     products,
     orders,
